@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mide6x
-- 👀 I’m interested in Data Analytics, Dashboards and Python
+- 👋 Hi, I’m Olumide Adewole
+- 👀 I’m interested in Data Analytics and Web Development
 - 🌱 I’m currently learning SQL, Python for Data Analysis
 - 💞️ I’m looking to collaborate on Data analytics capstone projects
 - 📫 Reach me at adewoleolumide05@gmail.com
