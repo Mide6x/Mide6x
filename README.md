@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olumide Adewole
-- 👀 I’m interested in Data Analytics and Web Development
-- 🌱 I’m currently learning SQL, Python for Data Analysis
-- 💞️ I’m looking to collaborate on Data analytics capstone projects
+- 👀 I’m interested in Game Development and Web Development
+- 🌱 I’m currently learning Unity and c#
+- 💞️ I’m looking to collaborate on Game Dev
 - 📫 Reach me at adewoleolumide05@gmail.com
 
 <!---
