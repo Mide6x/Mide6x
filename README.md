@@ -1,4 +1,4 @@
-👋 Hi, I’m Olumide Adewole and I'm confused.
+👋 Hi, I’m Olumide and I'm confused.
 📫 Reach me at adewoleolumide05@gmail.com
 
 <!---
