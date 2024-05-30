@@ -20,9 +20,8 @@
 
 - **Email:** [adewoleolumide05@gmail.com](mailto:adewoleolumide05@gmail.com)
 - **LinkedIn:** [Olumide Adewole](https://www.linkedin.com/in/olumide-adewole/)
-- **Twitter:** [@Mide6x](https://twitter.com/Mide6x)
 
 ---
 
-Feel free to explore my repositories and connect with me for collaboration or just to say hi! 😊
+Feel free to explore my repositories and connect with me for collaborations.
 
