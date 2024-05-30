@@ -8,7 +8,7 @@
 
 ## Welcome to My GitHub Profile!
 
-🌟 I am Olumide, a developer specializing in Python and JavaScript (React). I love building innovative solutions and contributing to open-source projects.
+🌟 I am Olumide, a developer specializing in Python and JavaScript (React). I love building innovative solutions and contributing to Machine Learning projects.
 
 ### 🚀 My Tech Stack
 
