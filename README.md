@@ -1,14 +1,12 @@
-# 👋 Hi, I’m Olumide (Mide6x)
+# 👋 Hi, I’m mide (Mide6x)
 
-[![GitHub followers](https://img.shields.io/github/followers/Mide6x?style=social)](https://github.com/Mide6x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/olumide-a-a06485220/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue)](mailto:adewoleolumide05@gmail.com)
 
 ---
 
 ## Welcome to My GitHub Profile!
 
-🌟 I am Olumide, a developer specializing in Python and JavaScript (React). I love building innovative solutions and contributing to Machine Learning projects.
+🌟 I am Olumide, a developer who does cool stuff.
 
 ### 🚀 My Tech Stack
 
@@ -23,5 +21,5 @@
 
 ---
 
-Feel free to explore my repositories and connect with me for collaborations.
+Feel free to explore my repositories or connect with me.
 
