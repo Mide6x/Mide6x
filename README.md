@@ -6,7 +6,7 @@
 
 ## Welcome to My GitHub Profile!
 
-🌟 I am Olumide, a developer who does cool stuff.
+🌟 I am Olumide, an artificial intelligence engineer and fullstack developer who does cool stuff.
 
 ### 🚀 My Tech Stack
 
@@ -18,6 +18,7 @@
 
 - **Email:** [adewoleolumide05@gmail.com](mailto:adewoleolumide05@gmail.com)
 - **LinkedIn:** [Olumide Adewole](https://www.linkedin.com/in/olumide-adewole/)
+- **Portfolio:** https://omide.netlify.app/
 
 ---
 
