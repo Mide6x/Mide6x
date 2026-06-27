@@ -18,7 +18,7 @@
 
 - **Email:** [adewoleolumide05@gmail.com](mailto:adewoleolumide05@gmail.com)
 - **LinkedIn:** [Olumide Adewole](https://www.linkedin.com/in/olumide-adewole/)
-- **Portfolio:** https://omide.netlify.app/
+- **Portfolio:** https://olumide.adewole.xyz
 
 ---
 
