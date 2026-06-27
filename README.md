@@ -7,7 +7,7 @@
 I build intelligent, reliable software — from applied AI systems to production mobile and web products.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://olumideadewole.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olumide-adewole/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olumideadewole/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adewoleolumide05@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mide6x&style=flat-square&label=PROFILE+VIEWS)
